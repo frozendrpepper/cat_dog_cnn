@@ -7,7 +7,7 @@ The main goal of the project is to apply various CNN architecture and compare th
 
 ## File Description
 
-* cat_dog_cnn_main.ipynb -> This jupyter notebook contains all the content of the project
+* cat_dog_cnn_main.ipynb -> This jupyter notebook contains all the contents of the project
 
 
 ## Data and Evaluation Criteria
@@ -43,7 +43,7 @@ The main goal of the project is to apply various CNN architecture and compare th
 * [Excellent Youtube tutorial on Keras](https://www.youtube.com/watch?v=LhEMXbjGV_4&t=378s) - Excellent series of MLP and CNN tutorial in Keras.
 * [Simple CNN structure](https://pythonprogramming.net/tflearn-machine-learning-tutorial/) - Provided simple 28 x 28 CNN structure
 * [Blog on Transfer Learning](https://medium.com/@galen.ballew/transferlearning-b65772083b47) - This blog provides a good overview of XGBoost approach to solve the problem. It also provided a good tip on how the ranking of the dog breed can help improve the accuracy.
-* [Some issues with Kaggle ranking](http://openaccess.thecvf.com/content_cvpr_2017/papers/Chollet_Xception_Deep_Learning_CVPR_2017_paper.pdf) - Paper on Xception
+* [Paper on how Xception model was conceived](http://openaccess.thecvf.com/content_cvpr_2017/papers/Chollet_Xception_Deep_Learning_CVPR_2017_paper.pdf) - Paper on Xception
 
 
 ## Acknowledgments
